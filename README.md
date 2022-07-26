@@ -55,4 +55,4 @@ If you use our code or models in your research, please give it a star or cite wi
 # Acknowledgement
 Thanks for the open-source:
 > [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch/), [timm](https://github.com/rwightman/pytorch-image-models), [DarkPose](https://github.com/ilovepose/DarkPose), [DETR](https://github.com/facebookresearch/detr)
-# hpe_transformer # hpe_transformer
+
